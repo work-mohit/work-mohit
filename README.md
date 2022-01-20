@@ -4,6 +4,19 @@
 <p><b>About Me:</b> An extensive learner, loves to work with different technologies. A Ex-science student, who’s currently a CS Student and aims to be a Data Scientist.</p>
 
 
+* I am [Mohit Joshi](https://www.linkedin.com/in/mohit-joshi-249a17190/) . Currently I am a first year student of MCA at Graphic Era Hill University. 🏛️
+
+* I am a C++ and Python Developer & Exploring the field of Data Science. ✨
+
+* I have done multiple projects ranging from the field of Web development, Data Analysis,Machince Learning, Computer Vision,Deep Learning. 🗄️
+
+* I have also implemented research papers to enhance the practical experience.
+
+* I am currently brushing up my skills in data anaytics and learning R by side.
+
+* I am willing to work on free-lance projects and love to  contribute to open source projects :bulb:
+
+
 ### 🛠 &nbsp;Tech Stack
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
