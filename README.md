@@ -58,7 +58,7 @@
 </p>
 <br>
 
-[![Mohit Joshi's Activity Graph](https://activity-graph.herokuapp.com/graph?username=work-mohit&custom_title=Mohit%20Joshi's%20Contribution%20Graph&theme=tokyonight&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)]()
+[![Mohit Joshi's Activity Graph](https://activity-graph.herokuapp.com/graph?username=work-mohit&custom_title=Mohit%20Joshi's%20Contribution%20Graph&theme=github&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)]()
 
 
 
