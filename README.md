@@ -14,7 +14,7 @@
 
 * I have also implemented research papers to enhance the practical experience.
 
-* I am currently brushing up my skills in data anaytics and learning R by side.
+* I am currently brushing up my skills in data anaytics and R Programming.
 
 * I am willing to work on free-lance projects and love to  contribute to open source projects :bulb:
 
