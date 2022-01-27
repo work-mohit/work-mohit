@@ -44,7 +44,9 @@
 <a href = 'https://twitter.com/mohitjoshi__'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://medium.com/@themohitjoshi'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
 <a href = 'https://www.instagram.com/mohitjoshi.py/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> 
-<a href = 'https://github.com/work-mohit/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+<a href = 'https://github.com/work-mohit/'> <img width = '42px' align= 'center' 
+src="https://img.icons8.com/glyph-neue/64/000000/github.png"/></a>
+
 </div>
 
  ## My Statistics
