@@ -1,5 +1,5 @@
 <div>
-<h1>Hey! I'm Mohit <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1>Hey! I'm Mohit Joshi </h1>
 
 <p>An extensive learner, loves to work with different technologies. A Ex-science student, who’s currently a CS Student and aims to be a Data Scientist.</p>
 </div>
@@ -38,7 +38,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)&nbsp;
 
-<h2 align="center"> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2 align="center"> Connect with me !</h2>
 <div align="center">
 <a href = 'https://www.linkedin.com/in/mohit-joshi-249a17190/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://twitter.com/mohitjoshi__'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
