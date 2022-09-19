@@ -6,7 +6,7 @@
 <h3>Python & C++ Developer , Deep Learning & Computer Vision Enthusiast</h3>
 
 
-* I am [Mohit Joshi](https://www.linkedin.com/in/mohit-joshi-249a17190/) . Currently I am a first year student of MCA at Graphic Era Hill University. 🏛️
+* I am [Mohit Joshi](https://www.linkedin.com/in/mohit-joshi-249a17190/) . Currently I am a final year student of MCA at Graphic Era Hill University. 🏛️
 
 * I am a C++ and Python Developer & Exploring the field of Data Science. ✨
 
