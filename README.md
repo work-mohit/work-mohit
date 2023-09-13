@@ -1,20 +1,18 @@
 <div>
-<h1>Hey! I'm Mohit Joshi </h1>
+<h1>Hey! Myself Mohit Joshi </h1>
 
-<p>An extensive learner, loves to work with different technologies. A Ex-science student, who’s currently a CS Student and aims to be a Data Scientist.</p>
+<p>An extensive learner, who loves to work with different technologies. An Ex-science student, currently a CS Student and aims to be a Data Scientist.</p>
 </div>
 <h3>Python & C++ Developer , Deep Learning & Computer Vision Enthusiast</h3>
 
 
-* I am [Mohit Joshi](https://www.linkedin.com/in/mohit-joshi-249a17190/) . Currently I am a final year student of MCA at Graphic Era Hill University. 🏛️
+* I am [Mohit Joshi](https://www.linkedin.com/in/mohit-joshi-249a17190/) . Recently completed MCA from Graphic Era Hill University. 🏛️
 
 * I am a C++ and Python Developer & Exploring the field of Data Science. ✨
 
-* I have done multiple projects ranging from the field of Web development, Data Analysis,Machince Learning, Computer Vision,Deep Learning. 🗄️
+* I have done multiple projects ranging from the field of Web development, Data Analysis, Machine Learning, Computer Vision, and Deep Learning. 🗄️
 
-* I have also implemented research papers to enhance the practical experience.
-
-* I am currently brushing up my skills in data anaytics and R Programming.
+* I have also implemented research papers to enhance my practical experience.
 
 * I am willing to work on free-lance projects and love to  contribute to open source projects :bulb:
 
@@ -24,7 +22,6 @@
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=FF9800)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -43,7 +40,7 @@
 <a href = 'https://www.linkedin.com/in/mohit-joshi-249a17190/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://twitter.com/mohitjoshi__'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://medium.com/@themohitjoshi'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
-<a href = 'https://www.instagram.com/mohitjoshi.py/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> 
+<a href = 'https://www.instagram.com/nothingbutmohitjoshi/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> 
 <a href = 'https://github.com/work-mohit/'> <img width = '42px' align= 'center' 
 src="https://img.icons8.com/glyph-neue/64/000000/github.png"/></a>
 
