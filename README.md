@@ -1,5 +1,9 @@
 <div>
-<h1>Hey! Myself Mohit Joshi </h1>
+<!-- <h1>Hey! Myself Mohit Joshi </h1> -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=9644F4&size=40&center=true&vCenter=true&width=550&height=70&lines=I'm+Mohit+Joshi;An+Machine+Learning+Enthusiast;">
+</p>
 
 <p>An extensive learner, who loves to work with different technologies. An Ex-science student, currently a CS Student and aims to be a Data Scientist.</p>
 </div>
@@ -57,7 +61,7 @@ src="https://img.icons8.com/glyph-neue/64/000000/github.png"/></a>
 </p>
 <br>
 
-[![Mohit Joshi's Activity Graph](https://activity-graph.herokuapp.com/graph?username=work-mohit&custom_title=Mohit%20Joshi's%20Contribution%20Graph&theme=github&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)]()
 
 
+[![Mohit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=work-mohit&theme=xcode&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
