@@ -2,7 +2,7 @@
 <!-- <h1>Hey! Myself Mohit Joshi </h1> -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=9644F4&size=40&center=true&vCenter=true&width=550&height=70&lines=I'm+Mohit+Joshi;An+Machine+Learning+Enthusiast;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=9644F4&size=40&center=true&vCenter=true&width=800&height=70&lines=I'm+Mohit+Joshi;An+Machine+Learning+Enthusiast;">
 </p>
 
 <p>An extensive learner, who loves to work with different technologies. An Ex-science student, currently a CS Student and aims to be a Data Scientist.</p>
@@ -53,11 +53,11 @@ src="https://img.icons8.com/glyph-neue/64/000000/github.png"/></a>
  ## My Statistics
 <br/>
 
-<p align="left">
+<p align="center">
   
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=work-mohit&show_icons=true&theme=tokyonight&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=work-mohit&theme=tokyonight&hide_border=true" />
-  </a>
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=work-mohit&theme=tokyonight&hide_border=true"/>
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=work-mohit&theme=tokyonight&hide_border=true" />
+
 </p>
 <br>
 
