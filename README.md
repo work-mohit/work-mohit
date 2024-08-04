@@ -10,7 +10,7 @@
 <h3>Python & C++ Developer , Deep Learning & Computer Vision Enthusiast</h3>
 
 
-* I am [Mohit Joshi](https://www.linkedin.com/in/mohit-joshi-249a17190/) . Recently completed MCA from Graphic Era Hill University. 🏛️
+* I am [Mohit Joshi](https://www.linkedin.com/in/mohit-joshi-249a17190/) . I have completed Masters in Computer Applications from Graphic Era Hill University. Now working as an Associate System Engineer at IBM.
 
 * I am a C++ and Python Developer & Exploring the field of Data Science. ✨
 
