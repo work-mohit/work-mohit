@@ -5,16 +5,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=9644F4&size=40&center=true&vCenter=true&width=800&height=70&lines=I'm+Mohit+Joshi;An+Machine+Learning+Enthusiast;">
 </p>
 
-<p>An extensive learner, who loves to work with different technologies. An Ex-science student, currently a CS Student and aims to be a Data Scientist.</p>
+<p>An extensive learner, who loves to work with different technologies. Currently working as a Quality Engineer at IBM and seeks to be a Data Scientist.</p>
 </div>
 <h3>Python & C++ Developer , Deep Learning & Computer Vision Enthusiast</h3>
 
 
-* I am [Mohit Joshi](https://www.linkedin.com/in/mohit-joshi-249a17190/) . I have completed Masters in Computer Applications from Graphic Era Hill University. Now working as an Associate System Engineer at IBM.
+* I am [Mohit Joshi](https://www.linkedin.com/in/workmohitjoshi) . I have completed Masters in Computer Applications (MCA) from Graphic Era Hill University. Now, I am working as an Associate system engineer at IBM.
 
 * I am a C++ and Python Developer & Exploring the field of Data Science. ✨
 
-* I have done multiple projects ranging from the field of Web development, Data Analysis, Machine Learning, Computer Vision, and Deep Learning. 🗄️
+* I have done multiple projects in the fields of Web Development, Data Analysis, Machine Learning, Computer Vision, and Deep Learning. 🗄️
 
 * I have also implemented research papers to enhance my practical experience.
 
@@ -41,7 +41,7 @@
 
 <h2 align="center"> Connect with me !</h2>
 <div align="center">
-<a href = 'https://www.linkedin.com/in/mohit-joshi-249a17190/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.linkedin.com/in/workmohitjoshi/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://twitter.com/mohitjoshi__'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://medium.com/@themohitjoshi'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
 <a href = 'https://www.instagram.com/nothingbutmohitjoshi/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> 
