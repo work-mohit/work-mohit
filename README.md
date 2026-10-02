@@ -11,7 +11,7 @@
 
 - Hi, I'm [Mohit Joshi](https://www.linkedin.com/in/workmohitjoshi). I completed my Master of Computer Applications (MCA) from Graphic Era Hill University in 2023 and joined IBM shortly after graduation, where I continue to grow my technical expertise and contribute to engineering projects.
 
-- My core expertise lies in developing **Java- and Python-based automation tools** to improve efficiency, streamline workflows, and solve complex technical challenges.
+- My core expertise lies in developing **Java and Python-based automation tools** to improve efficiency, streamline workflows, and solve complex technical challenges.
 
 - I have gained hands-on experience across a diverse range of projects spanning **Web Development, Data Analytics, Machine Learning, Computer Vision, and Deep Learning**.
 
