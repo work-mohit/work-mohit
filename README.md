@@ -5,36 +5,24 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=9644F4&size=40&center=true&vCenter=true&width=800&height=70&lines=I'm+Mohit+Joshi;An+Machine+Learning+Enthusiast;">
 </p>
 
-<p>An extensive learner, who loves to work with different technologies. Currently working as a Quality Engineer at IBM and seeks to be a Data Scientist.</p>
-</div>
-<h3>Python & C++ Developer , Deep Learning & Computer Vision Enthusiast</h3>
+<p>
+  An enthusiastic and continuous learner, passionate about exploring new technologies and solving real-world problems. Currently working as a Software Engineer at IBM Software Labs.
+</p>
 
+- Hi, I'm [Mohit Joshi](https://www.linkedin.com/in/workmohitjoshi). I completed my Master of Computer Applications (MCA) from Graphic Era Hill University in 2023 and joined IBM shortly after graduation, where I continue to grow my technical expertise and contribute to engineering projects.
 
-* I am [Mohit Joshi](https://www.linkedin.com/in/workmohitjoshi) . I have completed Masters in Computer Applications (MCA) from Graphic Era Hill University. Now, I am working as an Associate system engineer at IBM.
+- My core expertise lies in developing **Java- and Python-based automation tools** to improve efficiency, streamline workflows, and solve complex technical challenges.
 
-* I am a C++ and Python Developer & Exploring the field of Data Science. ✨
+- I have gained hands-on experience across a diverse range of projects spanning **Web Development, Data Analytics, Machine Learning, Computer Vision, and Deep Learning**.
 
-* I have done multiple projects in the fields of Web Development, Data Analysis, Machine Learning, Computer Vision, and Deep Learning. 🗄️
-
-* I have also implemented research papers to enhance my practical experience.
-
-* I am willing to work on free-lance projects and love to  contribute to open source projects :bulb:
-
+- I am open to freelance opportunities and enjoy contributing to **open-source projects**, collaborating with developers, and exploring innovative technologies.
 
 ### 🛠 &nbsp;Tech Stack
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=FF9800)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-05122A?style=flat&logo=sublime-text&logoColor=FF9800)&nbsp;
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat&logo=jupyter&logoColor=F37626)&nbsp;
-![Google Colab](https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=google-colab&logoColor=F9AB00)&nbsp;
 ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras&logoColor=D00000)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)&nbsp;
